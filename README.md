@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Javascript and React.**
 
-- 📫 How to reach me **pranayborkar133@gmail.com.**
+- 📫📩 How to reach me : **pranayborkar133@gmail.com.**
 
-- ⚡ Fun fact **I like to watch sci-fi web shows.**
+- ⚡ Fun fact : **I like to watch sci-fi web shows.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

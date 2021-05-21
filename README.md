@@ -32,3 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranayb17&show_icons=true&locale=en" alt="pranayb17" /></p>
 
+
+
+<h4 align="center"  size='20px'>  Thank You for taking the time to view my GitHub Profile :smile: </h4>
+
+

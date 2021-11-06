@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my coding skills.**
 
-- 🌱 I’m currently learning **Frontend Web_technologies.**
+- 🌱 I’m currently learning **React.**
 
 - 📫 How to reach me **pranayborkar133@gmail.com.**
 

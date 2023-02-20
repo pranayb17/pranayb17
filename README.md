@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height='45px' width ='45px'>, I'm Pranay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A tech geek from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayb17&label=Profile%20views&color=0e75b6&style=flat" alt="pranayb17" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my coding skills.**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **Data Engineering.**
 
 - 📫 How to reach me **pranayborkar133@gmail.com.**
 

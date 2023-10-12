@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my coding skills.**
 
-- 🌱 I’m currently learning **Data Engineering.**
+- 🌱 I’m currently learning **Machine learning (ML).**
 
 - 📫 How to reach me **pranayborkar133@gmail.com.**
 

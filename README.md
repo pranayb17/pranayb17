@@ -1,43 +1,95 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height='45px' width ='45px'>, I'm Pranay</h1>
-<h3 align="center">A tech geek from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayb17&label=Profile%20views&color=0e75b6&style=flat" alt="pranayb17" /> </p>
+# Pranay Borkar 👋
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height = '220' width = '220px' ></h2>
+### Business Intelligence (BI) & Reporting | SQL | Python | Power BI | Tableau | Azure 
 
-- 🔭 I’m currently working on **my coding skills.**
-
-- 🌱 I’m currently learning **Machine learning (ML).**
-
-- 📫 How to reach me **pranayborkar133@gmail.com.**
-
-- ⚡ Fun fact **I like to watch sci-fi movies.**
+Building Analytics, Reporting, and Business Intelligence for Enterprises.
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height='45px' width='45px'> </h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranay-borkar-bi-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+ 
+  <a href="mailto:pranay.borkar177@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 💼 Data & BI Professional with **4+ years of experience** in **Data Analytics, Business Intelligence, and Reporting Process Automation**.
+- 🏗️ Currently at **Zensar Technologies**, on the **Automation & Reporting** team, building BI & Analytics for different accounts.
+- 🏦 Previously built enterprise analytics for **Credit Suisse/ UBS** at Cognizant, progressing from Data Analyst → Business Intelligence Developer.
+- ☁️ Strong expertise in Dashboard Building, Data Modeling, ETL/ELT pipeline design,  Data Warehousing, Performance Optimization, Data Quality, CI/CD, and    Power BI/ Tableau Reporting.
+- 🚀 Currently expanding my expertise in Data Engineering, Cloud Data Platforms, Apache Spark, Azure Databricks, and AI-enabled analytics to build smarter   and more scalable data solutions.
+- 🎓 B.E. in Electronics and Telecommunication, Pune University, Maharashtra.
+- 📍 Based in **Pune, Maharashtra, India**.
+
+---
+
+# 🧭 Experience
 
 
-<a href = "https://linkedin.com/in/pranayb17/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+| Company | Role | Duration |
+|---|---|---|
+| **Zensar Technologies** | IT Reporting Automation Specialist | Apr 2026 – Present |
+| **Cognizant** | Business Intelligence Developer | Oct 2024 – Mar 2026 |
+| **Cognizant** | Data Analyst | Feb 2022 – Oct 2024 |
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
+### Azure
 
-<h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = '45px' width = '45px'> </h2>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square)
+![Azure Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=flat-square)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat-square)
+![Azure Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat-square)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A84FF?style=flat-square)
 
-<p align="left">  </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Reporting
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-FFFFFF?style=flat-square&logo=tableau&logoColor=black)
+
+---
 
 
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
-  
+# 📜 Certifications
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height ='32px' width='32px'> </h2>
+- ✅ PL 300 : Power BI Data Analyst Associate
+- ✅ DP 600 : Fabric Analytics Engineer Associate
+- 🚀 Databricks Certified Data Engineer Associate *(In Progress)*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranayb17&show_icons=true&locale=en&layout=compact" alt="pranayb17" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranayb17&show_icons=true&locale=en" alt="pranayb17" /></p>
+# 📫 Connect With Me
+
+📧 **Email**
+pranay.borkar177@outlook.com
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/pranay-borkar-bi-developer/
 
 
-
-<h4 align="center"  size='20px'>  Thank You for taking the time to view my GitHub Profile :smiley: </h4>
-
-
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.

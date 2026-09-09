@@ -2,7 +2,7 @@
 
 # Pranay Borkar 👋
 
-### Business Intelligence (BI) & Reporting | SQL | Python | Power BI | Tableau | Azure 
+### Data Analytics, Business Intelligence (BI) & Reporting | SQL | Python | Power BI | Tableau | Azure 
 
 Building Analytics, Reporting, and Business Intelligence for Enterprises.
 
